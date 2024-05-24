@@ -1,4 +1,4 @@
-# test_pinpong
+# test_pinpong lib for LattePanda board
 
 installation:
 
